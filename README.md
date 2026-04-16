@@ -25,7 +25,7 @@ To conduct a comprehensive analysis of pizza sales data using SQL queries to unc
 
 •	Most orderd pizza category and quantity - Classic, 148888
 
-•	Average orders per day – 138
+•	Average no of pizzas sold per day – 138
 
 •	Type and percentage of top selling pizza - Classic, 26.91%
 
