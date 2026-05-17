@@ -36,7 +36,6 @@ To conduct a comprehensive analysis of pizza sales data using SQL queries to unc
 
    
 
-
 # Conclusion
 
 The Pizza Sales Analysis Project effectively demonstrates the power of SQL in analyzing and deriving insights from sales data. Through the creation of database tables and the execution of a variety of SQL queries, we have successfully extracted valuable information about the pizza restaurant chain's operations.
